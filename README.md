@@ -10,3 +10,5 @@
 1.因为要使用联系人功能,所以需要真机调试
 2.需要在 info.plist中加入联系人权限
 3.contact 框架只支持iOS9以后系统
+
+[简书连接](http://www.jianshu.com/p/8e99c77232aa)
